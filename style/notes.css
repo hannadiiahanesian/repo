@@ -17,14 +17,14 @@ h2 {
 
 }
 
-.nesting {
+#nesting {
 	background-color: blue;
 }
 
-.git {
+#git {
 	background-color: green;
 }
 
-.client {
+#client {
 	background-color: red;
 }
