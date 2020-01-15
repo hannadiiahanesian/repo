@@ -28,3 +28,9 @@ h2 {
 #client {
 	background-color: red;
 }
+
+main {
+	column-count: 3;
+	column-gap: 2.5em;
+	column-rule: 1px dotted;
+}
